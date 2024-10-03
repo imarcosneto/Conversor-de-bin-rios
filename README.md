@@ -1,1 +1,1 @@
-# Conversor-de-bin-rios
+# Conversor de numeros binarios em C
