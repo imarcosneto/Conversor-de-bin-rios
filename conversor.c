@@ -2,7 +2,7 @@
 
 int main() {
     int a, i = 0;
-    int binario[32];  // Array para armazenar os restos (bits binários)
+    int binario[50];  // Array para armazenar os restos (bits binários)
 
     printf("\nEntre com um número inteiro: ");
     scanf("%d", &a);
