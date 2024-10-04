@@ -2,7 +2,8 @@
 
 Algorítmo de conhecimento geral para converter números decimais em números binários:
 
-f(x):
+f(x): </br>
+
       enquanto x > 0
       resto = x % 2                    // Obtém o resto da divisão por 2 </br>
       armazenar resto                  // Armazena o resto em uma lista ou array </br>
